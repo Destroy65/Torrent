@@ -1,0 +1,5 @@
+En el seu moment no sabia com fer que el server escoltes fora de loopback i 
+quan vaig fer el QA tenia una càrrega  de feina que no em va permetre dedicar el temps necessari a solucionar-lo. 
+Avui m'he capficat a conseguir-ho i he trobat la manera. Faig un commit fora de termini nomes 
+per que quedi constancia de que he aconseguit fer-ho encara que entendria perfectament que per a la 
+nota de practiques es tingui en compte la versió que vaig pujar quan va finalitzar el termini del QA.
